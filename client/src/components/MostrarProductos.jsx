@@ -66,7 +66,7 @@ function MostrarProductos(){
                 </table>
               </div>
             </div>
-            <Link to={'/add'}  className="btn btn-primary m-3">Agregar producto</Link>
+            <Link to={'/add'}  className="btn btn-primary m-3">Agregar producto!</Link>
             <Link to={'/stats'}  className="btn btn-primary m-3">Estadisticas</Link>
           </div>
           </>
